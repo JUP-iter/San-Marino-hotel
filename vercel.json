@@ -1,5 +1,5 @@
 {
-  "buildCommand": "cd san-marino-hotel-premium && npm run build",
-  "outputDirectory": "san-marino-hotel-premium/dist",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
   "framework": "vite"
 }
